@@ -8,12 +8,12 @@
 ## ✨ What’s inside
 
 | Area |
-|------|------------------|
+|------|
 | **App Router** |
 | **Server Components** |
 | **Client Components** |
 | **Data fetching** |
-| **Styling** | 
+| **Styling** |
 | **DB Implementation with better-sqlite3** |
 
 ---
