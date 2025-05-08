@@ -21,3 +21,7 @@
 ## 📸 Preview
 
 ![NextFood screenshot](./public/images/delicious.png)
+
+## 📸 Future possible fixes
+
+> Input validation | add useActionState hook | add remove meal functionality
