@@ -7,7 +7,7 @@
 
 ## ✨ What’s inside
 
-| Area | What I practised |
+| Area |
 |------|------------------|
 | **App Router** |
 | **Server Components** |
